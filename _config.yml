@@ -1,0 +1,12 @@
+title: "CareOS — Investor Materials"
+description: "Healthcare Operations OS for Norwegian Municipal Care"
+theme: minima
+baseurl: ""
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - memo.md
+  - executive-summary.md
+  - pitch.md
+  - faq.md
